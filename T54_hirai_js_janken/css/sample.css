@@ -1,0 +1,68 @@
+/* header */
+
+div {
+    position: relative;
+}
+
+.header {
+    width: 1000px;
+}
+
+h1 {
+    position: absolute;
+    top: 30px;
+    left: 100px;
+    text-align: center;
+    font-size: 55px;
+    color: antiquewhite;
+    white-space: nowrap;
+    font-weight: bold;
+}
+
+/* section */
+
+main {
+    width: 1000px;
+    /* display: flex; */
+}
+
+.btn {
+    color: #fff;
+    background-color: #ffd514;
+    width: 300px;
+    border: #cacaca;
+    font-size: 45px;
+    margin: 50px 5px 50px;
+    padding: 10px 20px;
+    text-align: center;
+}
+
+.btn__radius {
+    border-radius: 50vh;
+    border-bottom: 5px solid #9f8304;
+}
+
+.reset {
+    position: absolute;
+}
+
+.image {
+    display: flex;
+}
+
+.cream {
+    width: 300px;
+    height: auto;
+}
+
+/* script */
+
+#sentence1 {
+    font-size: 30px;
+    color: rgb(84, 83, 83);
+}
+
+#sentence2 {
+    font-size: 30px;
+    color: rgb(84, 83, 83);
+}
